@@ -1,18 +1,18 @@
-# Collapse
+# collapse
 
-I started Collapse as Signal to keep school tasks, assignment feedback, email drafts, and deadlines in one workspace.
+i started collapse as signal to keep school tasks, assignment feedback, email drafts, and deadlines in one workspace.
 
-The app uses React, TypeScript, Vite, and a Node.js API. It includes quick task capture, assignment review against a rubric, editable email drafts, and calendar exports.
+the app uses react, typescript, vite, and a node.js api. it includes quick task capture, assignment review against a rubric, editable email drafts, and calendar exports.
 
-This repository is the public project overview. The application source is currently private.
+this repository is the public project overview. the application source is currently private.
 
-## Other projects
+## other projects
 
-| Project | What I'm building | Links |
+| project | what i'm building | links |
 | --- | --- | --- |
-| Rebound | A recovery journal with daily check-ins, movement guides, and experimental camera-based rep counting. My Congressional App Challenge project. | [Code](https://github.com/sidsenthilkumar-dev/congressapp) · [Web app](https://congress-two.vercel.app/#today) |
-| Defend the Hatchery | A co-op Roblox game about hatching pets and defending a shared egg nest through enemy waves. Built around Luau and Rojo. | Source code has not been published yet. |
+| rebound | a recovery journal with daily check-ins, movement guides, and experimental camera-based rep counting. my congressional app challenge project. | [code](https://github.com/sidsenthilkumar-dev/congressapp) · [web app](https://congress-two.vercel.app/#today) |
+| defend the hatchery | a co-op roblox game about hatching pets and defending a shared egg nest through enemy waves. built around luau and rojo. | source code has not been published yet. |
 
-## About me
+## about me
 
-I'm Sid, a high school student interested in software, AI, robotics, and game development. I work with Python, Java, JavaScript, TypeScript, React, and Luau.
+i'm sid, a high school student interested in software, ai, robotics, and game development. i work with python, java, javascript, typescript, react, and luau.
